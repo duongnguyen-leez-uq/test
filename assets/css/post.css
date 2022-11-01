@@ -1,0 +1,32 @@
+.Name-text{
+    color: #E6533C;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 800;
+  }
+.Name-user-img{
+    border-radius: 30px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    image-rendering: pixelated;
+    object-fit: contain;
+    vertical-align:text-top;
+}
+.Name-img{
+    display:flex;
+}
+.Name-Thanh{
+    font-size: 16px;
+    font-weight: 30px;
+}
+.post-color{
+    font-size: 16px;
+    color:#E6533C
+}
+.Name-ThanhThanh{
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+    margin-left: 50%;
+}
